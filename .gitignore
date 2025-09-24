@@ -1,3 +1,6 @@
+# Large datasets 
+data/SAML-D.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
