@@ -4,6 +4,11 @@
 
 Project for **Anti-Money Laundering (AML)** using data analysis and machine learning.  
 
+## Dataset
+This project uses the **[Synthetic Transaction Monitoring Dataset - AML](https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml)** available on Kaggle.  
+
+Due to GitHub's file size limitations, the dataset is **not included in this repository**.  
+
 ## Technologies
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn, scipy, Pillow)
 pandas → for data manipulation
